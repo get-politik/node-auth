@@ -32,4 +32,4 @@ logger.silly("Hi")
 
 More information in utils/logger.js
 
-#### Happy hacking! Made with ❤️ from Ali.
+#### Happy hacking! Made with ❤️ from Politik.
